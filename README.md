@@ -4,7 +4,7 @@ Start app: <br>
 npm start, <br>
 npm run dev <br>
 
-Actions:
+Actions: <br>
 **--action list**  ➮  list every contact <br>
 **--action get --id _id_**  ➮  find contact by id <br>
 **--action add --name _name_ --email _email_ --phone _phone_**  ➮  create a new contact <br>
